@@ -1,0 +1,16 @@
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/lib/usrg_tutorial/waypoint_mission_node
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/ament_index/resource_index/package_run_dependencies/usrg_tutorial
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/ament_index/resource_index/parent_prefix_path/usrg_tutorial
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/environment/ament_prefix_path.sh
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/environment/ament_prefix_path.dsv
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/environment/path.sh
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/environment/path.dsv
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/local_setup.bash
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/local_setup.sh
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/local_setup.zsh
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/local_setup.dsv
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/package.dsv
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/ament_index/resource_index/packages/usrg_tutorial
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/cmake/usrg_tutorialConfig.cmake
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/cmake/usrg_tutorialConfig-version.cmake
+/home/rlatjsrkd12/tutorial_ws/src/install/usrg_tutorial/share/usrg_tutorial/package.xml
